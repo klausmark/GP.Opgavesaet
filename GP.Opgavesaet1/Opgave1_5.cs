@@ -1,6 +1,6 @@
-﻿namespace Opgavesæt1
+namespace GP.Opgavesaet1
 {
-    public class Opgave1_3
+    public class Opgave1_5
     {
         public static void Run()
         {

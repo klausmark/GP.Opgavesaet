@@ -1,6 +1,6 @@
 using System;
 
-namespace Opgavesæt1
+namespace GP.Opgavesaet1
 {
     public class Opgave1_1
     {

@@ -1,6 +1,6 @@
-﻿namespace Opgavesæt1
+﻿namespace GP.Opgavesaet1
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
