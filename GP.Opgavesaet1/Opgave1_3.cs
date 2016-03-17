@@ -6,6 +6,7 @@ namespace GP.Opgavesaet1
     {
         public static void Run()
         {
+            Console.WriteLine("Opgave 1.3");
             Console.Write("Indtast antal aviser der skal omdeles:");
 
             var antalAviser = uint.Parse(Console.ReadLine());

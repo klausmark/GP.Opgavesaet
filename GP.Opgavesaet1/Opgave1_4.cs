@@ -6,6 +6,7 @@ namespace GP.Opgavesaet1
     {
         public static void Run()
         {
+            Console.WriteLine("Opgave 1.4");
             Console.Write("Input: ");
             var input = Console.ReadLine();
             Console.WriteLine($"Output: {input.Length} (antal tegn)");

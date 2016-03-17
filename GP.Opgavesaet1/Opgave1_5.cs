@@ -6,6 +6,7 @@ namespace GP.Opgavesaet1
     {
         public static void Run()
         {
+            Console.WriteLine("Opgave 1.5");
             Console.Write("Indtast længde i cm: ");
             var længde = int.Parse(Console.ReadLine());
             Console.Write("Indtast højde i cm: ");

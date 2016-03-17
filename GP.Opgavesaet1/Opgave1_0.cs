@@ -6,6 +6,7 @@ namespace GP.Opgavesaet1
     {
         public static void Run()
         {
+            Console.WriteLine("Opgave 1.0");
             Console.Write("Indtast navn: ");
             var navn = Console.ReadLine();
             Console.Write("Indtast fødselsår: ");

@@ -6,6 +6,7 @@ namespace GP.Opgavesaet1
     {
         public static void Run()
         {
+            Console.WriteLine("Opgave 1.1");
             Hovedopgaven();
             Ekstraopgaven();
         }

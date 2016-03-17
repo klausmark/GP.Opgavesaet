@@ -7,6 +7,7 @@ namespace GP.Opgavesaet1
     {
         public static void Run()
         {
+            Console.WriteLine("Opgave 1.2");
             Console.Write("Indtast CPR ");
             var cpr = Console.ReadLine();
             var match = Regex.Match(cpr, "^(\\d{2})(\\d{2})(\\d{2})-(\\d{4})$");
